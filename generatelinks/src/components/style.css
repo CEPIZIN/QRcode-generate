@@ -36,7 +36,7 @@ input{
   
 }
 
-.submit{
+button{
   background-color: #062c46;
   color: #fff;
   border: none;
@@ -46,6 +46,6 @@ input{
   font-weight: bold;
   text-align: center;
   margin-left: 5px;
-  width: 90px;
+  width: 200px;
    height: 35px; 
 }

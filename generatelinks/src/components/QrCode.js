@@ -20,8 +20,6 @@ function QrcodeGenerate() {
     />
   )
 
-
-
   return (
     <div>
         <div className="App">
@@ -38,8 +36,12 @@ function QrcodeGenerate() {
                     value={input}
                     onChange={(e) => setInput(e.target.value)}
                 />
-                <input className='submit' type="submit" />
+                
+                <button type="submit" disabled={!input}>
+                  Download QR code
+                </button>
                 </form>
+
             </div>
             </div>
 
