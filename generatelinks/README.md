@@ -1,4 +1,4 @@
-# QR Code Generator React App ![QR Code Generator](image.png)
+# QR Code Generator React App 
 
 ![Alt text](image.png)
 
@@ -6,7 +6,6 @@ This is a simple React project for generating QR codes from URLs, developed with
  
 ### Table of Contents
 - [How It Works](#how-it-works)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [License](#license)
