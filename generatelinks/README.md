@@ -2,7 +2,7 @@
 
 ![Alt text](image.png)
 
-This is a simple React project for generating QR codes from URLs, developed with the purpose of assisting people in quickly generating QR codes. The application allows users to enter a URL in the input field, and upon submitting the form, the user's input is logged to the console.
+This is a simple React project for generating QR codes from URLs, developed with the purpose of assisting people in quickly generating QR codes. The application allows users to enter a URL in the input field, and generate the QrCode then donwload.
  
 ### Table of Contents
 - [How It Works](#how-it-works)
